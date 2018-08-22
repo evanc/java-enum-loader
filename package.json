@@ -1,0 +1,30 @@
+{
+  "name": "java-enum-loader",
+  "version": "0.0.1",
+  "description": "Webpack loader to for Enums in Java classes",
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "keywords": [
+    "webpack",
+    "webpack-loader",
+    "java",
+    "enum"
+  ],
+  "author": "Evan Coonrod <evan@coonrod.org>",
+  "license": "MIT",
+  "dependencies": {
+    "camelcase": "^5.0.0",
+    "java-parser": "0.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanc/java-enum-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/evanc/java-enum-loader/issues"
+  },
+  "homepage": "https://github.com/evanc/java-enum-loader#readme"
+}
